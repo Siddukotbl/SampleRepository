@@ -1,1 +1,2 @@
 # SampleRepository
+readme file updated.
